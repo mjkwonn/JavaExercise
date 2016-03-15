@@ -47,7 +47,7 @@ public class mj {
 
             else if(alice.equals("바위"))
                 System.out.println("Alice win!");
-            else if(alice.equals("보"))
+            else(alice.equals("보"))
                 System.out.println("Bob win!");
 
         }
@@ -58,7 +58,7 @@ public class mj {
             else if(alice.equals("바위"))
                 System.out.println("Tie!");
 
-            else if(alice.equals("보"))
+            else(alice.equals("보"))
                 System.out.println("Alice win!");
 
         }
@@ -67,7 +67,7 @@ public class mj {
                 System.out.println("Alice win!");
             else if(alice.equals("바위"))
                 System.out.println("Bob win!");
-            else if(alice.equals("보"))
+            else(alice.equals("보"))
                 System.out.println("Tie!");
 
         }
